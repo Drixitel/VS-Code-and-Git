@@ -1,0 +1,35 @@
+To open Vs code terminal
+    Ctrl + `
+powershell exit 
+    Ctrl+ C
+Command Prompt (cmd)
+    cd: Takes you to folder destination
+    cd .. : Takes you backwards
+    Tab: auto completes the directories 
+    
+
+Gooey: desktop icons ect. 
+
+Fullscreen: F11
+
+Open extensions: Ctrl +shift + x
+
+Using Search: 
+   Large text small text: just adjust the zooming 
+        Ctrl +-
+    able to replace whole words throughtout a file !
+
+    Definition of variables/classes 
+        highlight 
+        rightclick 
+        see all Go to options 
+
+    whithin a file you can use CTRL+F
+    within a file: replace 
+            Ctrl+F and Ctrl +h 
+
+italic files: 
+    To keep open double click 
+
+Debug: 
+    uses Git hub 
