@@ -34,4 +34,6 @@ italic files:
 Debug: 
     uses Git hub 
 
+Make changes to an exsiting repo: 
+    F1, git clone, search repo 
 
